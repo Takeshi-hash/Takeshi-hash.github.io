@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>モレッシュ 現在の最新版 | モレッシュ（Molesh）</title>
+  <meta name="description" content="モレッシュの現在状況です。">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="/molesh/" aria-label="モレッシュ HOME">
+        <span class="brand-mark">M</span>
+        <span>
+          <strong>モレッシュ</strong>
+          <small>Molesh</small>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="主要ページ">
+        <a href="/molesh/status/">最新状況</a>
+        <a href="/molesh/google-play/">公開準備</a>
+        <a href="/molesh/privacy-policy/">プライバシー</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-title">
+  <div class="wrap">
+    <p class="eyebrow">Status</p>
+    <h1>モレッシュ 現在の最新版</h1>
+    <p class="lead">最終更新: 2026-06-27 JST</p>
+  </div>
+</section>
+
+<section class="content">
+  <div class="wrap">
+    <h2>現在の状態</h2>
+    <ul class="status-list">
+      <li>Android v0.1 のローカル実装とビルド確認は完了しています。</li>
+      <li>アプリ名は「モレッシュ」、英字表記は「Molesh」です。</li>
+      <li>パッケージ名は <code>com.molesh.app</code>、versionName は <code>1.0.0</code>、versionCode は <code>1</code> です。</li>
+      <li>Play Console のアカウント確認完了後に、初回アプリ作成と公開準備を進める段階です。</li>
+    </ul>
+
+    <h2>現在の公開方針</h2>
+    <ul>
+      <li>近くのトイレ候補をGoogleマップで開く小さなAndroidアプリとして公開します。</li>
+      <li>アプリ本体では位置情報を取得しません。</li>
+      <li>アプリ本体では個人情報を収集しません。</li>
+      <li>初回リリース時点では、広告、課金、ログイン、Firebase、Analytics、Google Places APIを使いません。</li>
+      <li>検索結果はGoogleマップ側で表示されます。</li>
+    </ul>
+
+    <h2>完了済み</h2>
+    <ul>
+      <li>アプリ名、パッケージ名、公開用メール、固定文言の整理。</li>
+      <li>Googleマップ検索URLを外部アプリまたはブラウザで開く実装。</li>
+      <li>Googleマップが開けない場合のブラウザfallbackとエラー表示。</li>
+      <li>位置情報権限なし、広告なし、課金なし、外部SDK最小構成の確認。</li>
+      <li>debug APK と release AAB の生成確認。</li>
+      <li>スマートフォン用スクリーンショットの取得。</li>
+      <li>ストア掲載文、Play Console入力メモ、プライバシーポリシー案の作成。</li>
+    </ul>
+
+    <h2>残作業</h2>
+    <ul>
+      <li>Google Play Console の本人確認完了を待つ。</li>
+      <li>Play Console でアプリを作成する。</li>
+      <li>ストア掲載情報、Data safety、コンテンツレーティングを画面上で最終入力する。</li>
+      <li>AAB をアップロードし、初回リリース用の審査提出条件を確認する。</li>
+      <li>個人用デベロッパーアカウントのテスト要件に合わせて、必要なクローズドテストを運用する。</li>
+    </ul>
+
+    <h2>判断待ち</h2>
+    <ul>
+      <li>カテゴリを「地図＆ナビ」と「ツール」のどちらにするか。</li>
+      <li>初回公開時点で、広告なし無料版だけで進めるか。</li>
+      <li>プライバシーポリシー公開URLをこの GitHub Pages 側へ寄せるか、既存URLを使い続けるか。</li>
+    </ul>
+
+    <h2>次にやること</h2>
+    <ol>
+      <li>Play Console の本人確認完了を確認する。</li>
+      <li>アプリ作成後、公開用メールとプライバシーポリシーURLを入力する。</li>
+      <li>Data safety とコンテンツレーティングを、実装内容と照合しながら入力する。</li>
+      <li>初回AABをアップロードし、警告や不足項目を確認する。</li>
+    </ol>
+  </div>
+</section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>モレッシュ（Molesh）は、近くのトイレ候補をGoogleマップで開くAndroidアプリです。</p>
+    </div>
+  </footer>
+</body>
+</html>
