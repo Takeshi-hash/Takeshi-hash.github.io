@@ -1,0 +1,200 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-07-10T21:52:02+0900",
+ "attributions": [
+  "目黒区オープンデータ「公衆トイレ」（2021-04-01）"
+ ],
+ "excluded_count": 0,
+ "toilets": [
+  {
+   "id": "moresh-663c830bf9",
+   "lat": 35.658784,
+   "lng": 139.682796,
+   "name": "駒場東大前駅公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-415a84a21a",
+   "lat": 35.649164,
+   "lng": 139.693042,
+   "name": "南部橋公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-74e21feb78",
+   "lat": 35.651482,
+   "lng": 139.684671,
+   "name": "大橋公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-d13765fa3c",
+   "lat": 35.641533,
+   "lng": 139.700364,
+   "name": "正覚寺公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-0a992b4900",
+   "lat": 35.636519,
+   "lng": 139.696627,
+   "name": "祐天寺公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-3cceabbdce",
+   "lat": 35.633784,
+   "lng": 139.711068,
+   "name": "新橋公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-f7634d67a3",
+   "lat": 35.632152,
+   "lng": 139.708107,
+   "name": "大鳥神社公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-ddfcad9b58",
+   "lat": 35.628631,
+   "lng": 139.70809,
+   "name": "不動尊公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-4faa797ab4",
+   "lat": 35.637158,
+   "lng": 139.690745,
+   "name": "祐天寺駅公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-357b16449f",
+   "lat": 35.610413,
+   "lng": 139.694396,
+   "name": "洗足駅公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-8607d9b14a",
+   "lat": 35.619426,
+   "lng": 139.689772,
+   "name": "圓融寺公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-7740aec8e9",
+   "lat": 35.617423,
+   "lng": 139.685658,
+   "name": "碑文谷八幡神社公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-9db8ced17e",
+   "lat": 35.628742,
+   "lng": 139.685247,
+   "name": "学芸大学駅公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-088db92426",
+   "lat": 35.606505,
+   "lng": 139.679147,
+   "name": "緑が丘駅前公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-187d292094",
+   "lat": 35.61065,
+   "lng": 139.668892,
+   "name": "熊野神社公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-1576198682",
+   "lat": 35.607272,
+   "lng": 139.668665,
+   "name": "自由が丘駅公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-233ed04de7",
+   "lat": 35.61766,
+   "lng": 139.676304,
+   "name": "都立大学駅公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-f198a5defa",
+   "lat": 35.621542,
+   "lng": 139.672741,
+   "name": "めぐろ区民キャンパス公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  },
+  {
+   "id": "moresh-680103c3c7",
+   "lat": 35.61878,
+   "lng": 139.671083,
+   "name": "八雲氷川神社公衆便所",
+   "trust_score": 3.0,
+   "confirm_count": 0,
+   "last_confirmed": null,
+   "rating_counts": {}
+  }
+ ]
+}
