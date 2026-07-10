@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "releaseUrl": "https://github.com/Takeshi-hash/Takeshi-hash.github.io/releases/tag/molesh-v1.1.0",
+  "notes": "現在地の取得と、現在地から近い順の表示を改善しました。"
+}
